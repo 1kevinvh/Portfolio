@@ -8,7 +8,7 @@ The project titles are links, click on them to bring you to the projects! The fo
 - Displays use of SQL queries such as **INNER JOIN, WHERE, GROUP BY, SUM, AVG, COUNT, ORDER BY, AND, and strftime**. I also showcased the use of subqueries.  
 - The purpose of this project was to showcase the use of SQL in a real-world scenario.
 
-- # [PowerBI Data Visualization: Superstore Sales](https://github.com/1kevinvh/PowerBI-Visualization.git)
+# [PowerBI Data Visualization: Superstore Sales](https://github.com/1kevinvh/PowerBI-Visualization.git)
 
 - The data was downloaded from kaggle.com. This was made to showcase my data visualization skills with a purpose and my thinking working in PowerBI.
 - Displays use of **data visualization, filters, dashboards**.
