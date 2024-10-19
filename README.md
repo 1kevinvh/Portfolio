@@ -14,7 +14,7 @@ The project titles are links, click on them to bring you to the projects! The fo
 - Displays use of **data visualization, filters, dashboards**.
 - The purpose of this project was to display some of my experience in PowerBI with real-world applications.
 
-# [Data Analysis for Actionable Insights: Mall Customers]([https://github.com/1kevinvh/PowerBI-Visualization.git](https://github.com/1kevinvh/Customer-Demographics-and-Spending-Behavior-Analysis.git))
+# [Data Analysis for Actionable Insights: Mall Customers](https://github.com/1kevinvh/Customer-Demographics-and-Spending-Behavior-Analysis.git)
 
 - Customer Demographics and Spending Behavior: This project analyzes customer demographics (age, income, gender) to understand patterns in spending behavior using pandas and NumPy.
 - Segmentation Insights: Customers are grouped into age and income brackets to identify trends in spending, revealing which demographic groups are most engaged and profitable.
