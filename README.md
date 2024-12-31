@@ -1,21 +1,40 @@
-# Kevin Ho's Portfolio  
+## Kevin Ho – Data Analyst | Business & Financial Analyst
 
-The project titles are links, click on them to bring you to the projects! The format of the titles is in the order as shown: Project number, skill(s) showcased, software used: title.
+I’m Kevin Ho, a Business & Financial Analyst with over two years of experience in managing and analyzing data. My current role is in business and financial analysis, where I leverage my expertise to turn data into actionable insights. My background in mathematics and statistics, coupled with my technical skills in tools like SQL, Python, R, Tableau, Excel, and PowerBI, enables me to approach data problems with a rigorous, analytical mindset.
 
-# [SQL Data Exploration: WSDA Music Shop Discrepancy](https://github.com/1kevinvh/SQL-Data-Exploration.git)  
+## Skills & Tools:
 
-- Practice scenario where there is a discrepancy in the financials, but I only know it happened between 2011 and 2012. I am looking to see if I can pinpoint a reason or prospect for the cause.  
-- Displays use of SQL queries such as **INNER JOIN, WHERE, GROUP BY, SUM, AVG, COUNT, ORDER BY, AND, and strftime**. I also showcased the use of subqueries.  
-- The purpose of this project was to showcase the use of SQL in a real-world scenario.
+**Programming:** SQL, Python, R
 
-# [PowerBI Data Visualization: Superstore Sales](https://github.com/1kevinvh/PowerBI-Visualization.git)
+**Data Visualization:** Tableau, PowerBI, Excel
 
-- The data was downloaded from kaggle.com. This was made to showcase my data visualization skills with a purpose and my thinking working in PowerBI.
-- Displays use of **data visualization, filters, dashboards**.
-- The purpose of this project was to display some of my experience in PowerBI with real-world applications.
+**Data Cleaning & Automation:** Power Query, Python
 
-# [Data Analysis for Actionable Insights: Mall Customers](https://github.com/1kevinvh/Customer-Demographics-and-Spending-Behavior-Analysis.git)
+## Professional Experience
 
-- Customer Demographics and Spending Behavior: This project analyzes customer demographics (age, income, gender) to understand patterns in spending behavior using pandas and NumPy.
-- Segmentation Insights: Customers are grouped into age and income brackets to identify trends in spending, revealing which demographic groups are most engaged and profitable.
-- Data Visualization and Analysis: Using matplotlib, various visualizations such as scatter plots, bar charts, and histograms highlight key insights, guiding targeted marketing and business strategies.
+In my current role, I manage data for over 30 camp-resorts, automating workflows and improving reporting efficiency by 20%. I’ve created custom Excel reports to track project milestones, budgets, and resource allocation for senior management. I’ve also identified and implemented automated solutions that reduced manual reporting time by 25%. Through designing automation workflows using Power Query and Python, I significantly improved the speed and accuracy of data extraction tasks.
+
+**Google Data Analytics Certification**
+
+## Education:
+
+**Bachelor of Science in Mathematics and Statistics**
+
+Grand Valley State University, Allendale, Michigan, 2021
+
+## My Approach to Data Analysis: 
+I begin every project by framing the business question, ensuring I understand the core issue at hand. Then, I prepare the data through cleaning and organization, followed by detailed analysis. Once the insights are discovered, I interpret the findings and communicate the results in a clear, actionable format. This structured approach allows me to deliver impactful, data-driven solutions.
+
+## Why Data Analysis? 
+Initially unsure of my career path after graduation, I discovered my passion for data when I started using Excel to manage business information. The power of making informed, data-driven decisions, as opposed to relying on gut instinct, is what excites me the most about this field. It feels incredibly rewarding to see how data can drive positive change and improve efficiency.
+
+## Contact Me:
+Email: 1kevinvh@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/vhkevin/
+
+## Projects
+
+1. [SQL Data Exploration: WSDA Music Shop Discrepancy](https://github.com/1kevinvh/SQL-Data-Exploration.git)  
+2. [PowerBI Data Visualization: Superstore Sales](https://github.com/1kevinvh/PowerBI-Visualization.git)
+3. [Data Analysis for Actionable Insights: Mall Customers](https://github.com/1kevinvh/Customer-Demographics-and-Spending-Behavior-Analysis.git)
