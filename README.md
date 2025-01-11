@@ -33,6 +33,10 @@ Email: 1kevinvh@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/vhkevin/
 
+## Case Studies
+1. 
+2. 
+
 ## Projects
 
 1. [SQL Data Exploration: WSDA Music Shop Discrepancy](https://github.com/1kevinvh/SQL-Data-Exploration.git)  
