@@ -34,11 +34,11 @@ Email: 1kevinvh@gmail.com
 LinkedIn: https://www.linkedin.com/in/vhkevin/
 
 ## Case Studies
-1. 
-2. 
+1. [What should be Bellabeat's marketeting strategy?](https://github.com/1kevinvh/CS-bellabeat-marketing.git)  
+2. [How can Cyclistic gain more subscribers?](https://github.com/1kevinvh/CS-cyclistic-subscribers.git)  
 
 ## Projects
 
-1. [SQL Data Exploration: WSDA Music Shop Discrepancy](https://github.com/1kevinvh/SQL-Data-Exploration.git)  
+1. [SQL Data Exploration: WSDA Music Shop Discrepancy](https://github.com/1kevinvh/SQL-Data-Exploration.git)
 2. [PowerBI Data Visualization: Superstore Sales](https://github.com/1kevinvh/PowerBI-Visualization.git)
 3. [Data Analysis for Actionable Insights: Mall Customers](https://github.com/1kevinvh/Customer-Demographics-and-Spending-Behavior-Analysis.git)
